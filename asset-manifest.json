@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udaybute/cryptotrackerapi.git/static/css/main.2906cff6.css",
+    "main.js": "/udaybute/cryptotrackerapi.git/static/js/main.83c57d2b.js",
+    "index.html": "/udaybute/cryptotrackerapi.git/index.html",
+    "main.2906cff6.css.map": "/udaybute/cryptotrackerapi.git/static/css/main.2906cff6.css.map",
+    "main.83c57d2b.js.map": "/udaybute/cryptotrackerapi.git/static/js/main.83c57d2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2906cff6.css",
+    "static/js/main.83c57d2b.js"
+  ]
+}
